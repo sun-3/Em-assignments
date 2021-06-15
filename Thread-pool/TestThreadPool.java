@@ -1,5 +1,4 @@
 
-//javaimport java.util.concurrent.BlockingQueue;
 import java.lang.reflect.Type;
 import java.util.LinkedList;
 import java.util.Queue;
